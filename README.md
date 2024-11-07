@@ -1,5 +1,27 @@
 # ALLaM-Hackathon-WebApplication
 
+## Running Application Locally
+Clone the repo to your local directory, and run the below commands in the terminal.
+
+1. Navigate to the project's directory:
+```bash
+cd /ALLaM-Hackathon-WebApplication
+```
+2. Navigate to the frontend directory and install dependencies, then run the frontend:
+```bash
+cd client
+npm i
+npm start
+```
+3. Navigate to the backend directory and install dependencies, then run the backend server:
+```bash
+cd server
+npm i
+npm start
+```
+4. You're good to go.
+
+   
 ## Framework Used:
 - ReactJS
 - Express
